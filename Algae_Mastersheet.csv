@@ -1,0 +1,315 @@
+﻿Sample_ID,Location,Instrument,Spectrum_ID_Algal,Spectrum_ID_Water,Morphological ID,Morphologist,Objective
+RPT_01,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0001_Algal,Spectrum_0001_Water,Gloeotrichia,Sarah Spaulding,20x
+RPT_01,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0002_Algal,Spectrum_0002_Water,Aphanizomenon,Sarah Spaulding,20x
+RPT_01,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0003_Algal,Spectrum_0003_Water,Dolichospermum,Sarah Spaulding,20x
+RPT_01,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0004_Algal,Spectrum_0004_Water,Gloeotrichia,Sarah Spaulding,20x
+RPT_01,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0005_Algal,Spectrum_0005_Water,Aphanizomenon,Sarah Spaulding,20x
+RPT_01,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0006_Algal,Spectrum_0006_Water,Dolichospermum,Sarah Spaulding,20x
+RPT_01,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0007_Algal,Spectrum_0007_Water,Gloeotrichia,Sarah Spaulding,20x
+RPT_01,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0008_Algal,Spectrum_0008_Water,Aphanizomenon,Sarah Spaulding,20x
+RPT_01,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0009_Algal,Spectrum_0009_Water,Dolichospermum,Sarah Spaulding,20x
+RPT_01,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0010_Algal,Spectrum_0010_Water,Dolichospermum,Sarah Spaulding,20x
+RPT_01,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0011_Algal,Spectrum_0011_Water,Aphanizomenon,Sarah Spaulding,20x
+RPT_01,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0012_Algal,Spectrum_0012_Water,Dolichospermum,Sarah Spaulding,20x
+RPT_01,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0013_Algal,Spectrum_0013_Water,Dolichospermum,Sarah Spaulding,20x
+RPT_01,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0014_Algal,Spectrum_0014_Water,Aphanizomenon,Sarah Spaulding,20x
+RPT_01,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0015_Algal,Spectrum_0015_Water,Dolichospermum,Sarah Spaulding,20x
+RPT_01,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0016_Algal,Spectrum_0016_Water,Dolichospermum,Sarah Spaulding,20x
+RPT_01,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0017_Algal,Spectrum_0017_Water,Dolichospermum,Sarah Spaulding,20x
+RPT_01,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0018_Algal,Spectrum_0018_Water,Dolichospermum,Sarah Spaulding,20x
+RPT_01,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0019_Algal,Spectrum_0019_Water,Gloeotrichia,Sarah Spaulding,20x
+RPT_01,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0020_Algal,Spectrum_0020_Water,Gloeotrichia,Sarah Spaulding,20x
+RPT_01,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0021_Algal,Spectrum_0021_Water,Gloeotrichia,Sarah Spaulding,20x
+PB,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0022_Algal,Spectrum_0022_Water,Gloeotrichia,Sarah Spaulding,20x
+PB,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0023_Algal,Spectrum_0023_Water,Gloeotrichia,Sarah Spaulding,20x
+WRM,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0024_Algal,Spectrum_0024_Water,Dolichospermum,Sarah Spaulding,20x
+WRM,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0025_Algal,Spectrum_0025_Water,Dolichospermum,Sarah Spaulding,20x
+WRM,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0026_Algal,Spectrum_0026_Water,Dolichospermum,Sarah Spaulding,20x
+WRM,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0027_Algal,Spectrum_0027_Water,Dolichospermum,Sarah Spaulding,20x
+WRM,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0028_Algal,Spectrum_0028_Water,Gloeotrichia,Sarah Spaulding,20x
+WRM,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0029_Algal,Spectrum_0029_Water,Gloeotrichia,Sarah Spaulding,20x
+WRM,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0030_Algal,Spectrum_0030_Water,Gloeotrichia,Sarah Spaulding,20x
+WRM,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0031_Algal,Spectrum_0031_Water,Gloeotrichia,Sarah Spaulding,20x
+WRM,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0032_Algal,Spectrum_0032_Water,Gloeotrichia,Sarah Spaulding,20x
+WRM,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0033_Algal,Spectrum_0033_Water,Gloeotrichia,Sarah Spaulding,20x
+WRM,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0034_Algal,Spectrum_0034_Water,Gloeotrichia,Sarah Spaulding,20x
+WRM,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0035_Algal,Spectrum_0035_Water,Gloeotrichia,Sarah Spaulding,20x
+WRM,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0036_Algal,Spectrum_0036_Water,Gloeotrichia,Sarah Spaulding,20x
+HB_01,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0037_Algal,Spectrum_0037_Water,Aphanizomenon,Sarah Spaulding,20x
+HB_01,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0038_Algal,Spectrum_0038_Water,Aphanizomenon,Sarah Spaulding,20x
+HB_01,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0039_Algal,Spectrum_0039_Water,Aphanizomenon,Sarah Spaulding,20x
+HB_01,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0040_Algal,Spectrum_0040_Water,Aphanizomenon,Sarah Spaulding,20x
+HB_01,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0041_Algal,Spectrum_0041_Water,Aphanizomenon,Sarah Spaulding,20x
+HB_01,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0042_Algal,Spectrum_0042_Water,Aphanizomenon,Sarah Spaulding,20x
+HB_01,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0043_Algal,Spectrum_0043_Water,Aphanizomenon,Sarah Spaulding,20x
+HB_01,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0044_Algal,Spectrum_0044_Water,Aphanizomenon,Sarah Spaulding,20x
+HB_01,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0045_Algal,Spectrum_0045_Water,Aphanizomenon,Sarah Spaulding,20x
+HB_01,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0046_Algal,Spectrum_0046_Water,Microcystis,Barry Rosen and Kurt Carpenter,40x
+HB_01,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0047_Algal,Spectrum_0047_Water,Microcystis,Barry Rosen and Kurt Carpenter,40x
+HB_01,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0048_Algal,Spectrum_0048_Water,Microcystis,Barry Rosen and Kurt Carpenter,40x
+MP,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0049_Algal,Spectrum_0049_Water,Aphanizomenon,Sarah Spaulding,20x
+MP,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0050_Algal,Spectrum_0050_Water,Gloeotrichia,Sarah Spaulding,20x
+MP,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0051_Algal,Spectrum_0051_Water,Gloeotrichia,Sarah Spaulding,20x
+MP,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0052_Algal,Spectrum_0052_Water,Gloeotrichia,Sarah Spaulding,20x
+MP,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0053_Algal,Spectrum_0053_Water,Gloeotrichia,Sarah Spaulding,20x
+MP,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0054_Algal,Spectrum_0054_Water,Gloeotrichia,Sarah Spaulding,20x
+MP,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0055_Algal,Spectrum_0055_Water,Gloeotrichia,Sarah Spaulding,20x
+MP,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0056_Algal,Spectrum_0056_Water,Gloeotrichia,Sarah Spaulding,20x
+MP,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0057_Algal,Spectrum_0057_Water,Gloeotrichia,Sarah Spaulding,20x
+MP,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0058_Algal,Spectrum_0058_Water,Gloeotrichia,Sarah Spaulding,20x
+MP,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0059_Algal,Spectrum_0059_Water,Gloeotrichia,Sarah Spaulding,20x
+RPT_02,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0060_Algal,Spectrum_0060_Water,Aphanizomenon,Sarah Spaulding,20x
+RPT_02,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0061_Algal,Spectrum_0061_Water,Aphanizomenon,Sarah Spaulding,20x
+RPT_02,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0062_Algal,Spectrum_0062_Water,Aphanizomenon,Sarah Spaulding,20x
+RPT_02,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0063_Algal,Spectrum_0063_Water,Aphanizomenon,Sarah Spaulding,20x
+HB_02,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0064_Algal,Spectrum_0064_Water,Aphanizomenon,Sarah Spaulding,20x
+HB_02,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0065_Algal,Spectrum_0065_Water,Aphanizomenon,Sarah Spaulding,20x
+HB_02,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0066_Algal,Spectrum_0066_Water,Aphanizomenon,Sarah Spaulding,20x
+HB_02,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0067_Algal,Spectrum_0067_Water,Aphanizomenon,Sarah Spaulding,20x
+MDT,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0068_Algal,Spectrum_0068_Water,Aphanizomenon,Sarah Spaulding,20x
+MDT,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0069_Algal,Spectrum_0069_Water,Aphanizomenon,Sarah Spaulding,20x
+MDT,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0070_Algal,Spectrum_0070_Water,Aphanizomenon,Sarah Spaulding,20x
+MDT,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0071_Algal,Spectrum_0071_Water,Aphanizomenon,Sarah Spaulding,20x
+MDT,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0072_Algal,Spectrum_0072_Water,Aphanizomenon,Sarah Spaulding,20x
+SB,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0073_Algal,Spectrum_0073_Water,Aphanizomenon,Sarah Spaulding,20x
+SB,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0074_Algal,Spectrum_0074_Water,Aphanizomenon,Sarah Spaulding,20x
+SB,"Upper Klamath Lake, OR (UKL)",Resonon Pika XC2,Spectrum_0075_Algal,Spectrum_0075_Water,Aphanizomenon,Sarah Spaulding,20x
+BR_Comb_01,Willamette River Basin - McKenzie River,Resonon Pika XC2,Spectrum_0076_Algal,Spectrum_0076_Water,Dolichospermum,Sarah Spaulding,40x
+BR_Comb_01,Willamette River Basin - McKenzie River,Resonon Pika XC2,Spectrum_0077_Algal,Spectrum_0077_Water,Dolichospermum,Sarah Spaulding,40x
+BR_Comb_01,Willamette River Basin - McKenzie River,Resonon Pika XC2,Spectrum_0078_Algal,Spectrum_0078_Water,Dolichospermum,Sarah Spaulding,40x
+BR_Comb_01,Willamette River Basin - McKenzie River,Resonon Pika XC2,Spectrum_0079_Algal,Spectrum_0079_Water,Dolichospermum,Sarah Spaulding,40x
+BR_Comb_01,Willamette River Basin - McKenzie River,Resonon Pika XC2,Spectrum_0080_Algal,Spectrum_0080_Water,Dolichospermum,Sarah Spaulding,40x
+BR_Comb_01,Willamette River Basin - McKenzie River,Resonon Pika XC2,Spectrum_0081_Algal,Spectrum_0081_Water,Dolichospermum,Sarah Spaulding,40x
+BRW_E548_02,Willamette River Basin - McKenzie River,Resonon Pika XC2,Spectrum_0082_Algal,Spectrum_0082_Water,Green algae,Sarah Spaulding,40x
+BRW_E548_02,Willamette River Basin - McKenzie River,Resonon Pika XC2,Spectrum_0083_Algal,Spectrum_0083_Water,Green algae,Sarah Spaulding,40x
+BRW_E548_02,Willamette River Basin - McKenzie River,Resonon Pika XC2,Spectrum_0084_Algal,Spectrum_0084_Water,Dolichospermum,Sarah Spaulding,40x
+BRW_E548_02,Willamette River Basin - McKenzie River,Resonon Pika XC2,Spectrum_0085_Algal,Spectrum_0085_Water,Dolichospermum,Sarah Spaulding,40x
+BRW_E548_03,Willamette River Basin - McKenzie River,Resonon Pika XC2,Spectrum_0086_Algal,Spectrum_0086_Water,Dolichospermum,Sarah Spaulding,40x
+BRW_E548_03,Willamette River Basin - McKenzie River,Resonon Pika XC2,Spectrum_0087_Algal,Spectrum_0087_Water,Dolichospermum,Sarah Spaulding,40x
+BRW_E548_03,Willamette River Basin - McKenzie River,Resonon Pika XC2,Spectrum_0088_Algal,Spectrum_0088_Water,Dolichospermum,Sarah Spaulding,40x
+BR_Comb_02,Willamette River Basin - McKenzie River,Resonon Pika XC2,Spectrum_0089_Algal,Spectrum_0089_Water,Gloeotrichia,Sarah Spaulding,20x
+BR_Comb_02,Willamette River Basin - McKenzie River,Resonon Pika XC2,Spectrum_0090_Algal,Spectrum_0090_Water,Gloeotrichia,Sarah Spaulding,20x
+BR_Comb_02,Willamette River Basin - McKenzie River,Resonon Pika XC2,Spectrum_0091_Algal,Spectrum_0091_Water,Green algae,Sarah Spaulding,40x
+BR_Comb_02,Willamette River Basin - McKenzie River,Resonon Pika XC2,Spectrum_0092_Algal,Spectrum_0092_Water,Green algae,Sarah Spaulding,40x
+BR_Comb_02,Willamette River Basin - McKenzie River,Resonon Pika XC2,Spectrum_0093_Algal,Spectrum_0093_Water,Green algae,Sarah Spaulding,40x
+BRW_E548_03,Willamette River Basin - McKenzie River,Resonon Pika XC2,Spectrum_0094_Algal,Spectrum_0094_Water,Dolichospermum,Sarah Spaulding,40x
+BRW_E548_03,Willamette River Basin - McKenzie River,Resonon Pika XC2,Spectrum_0095_Algal,Spectrum_0095_Water,Dolichospermum,Sarah Spaulding,40x
+BRW_E548_03,Willamette River Basin - McKenzie River,Resonon Pika XC2,Spectrum_0096_Algal,Spectrum_0096_Water,Green algae,Sarah Spaulding,40x
+BRW_E548_03,Willamette River Basin - McKenzie River,Resonon Pika XC2,Spectrum_0097_Algal,Spectrum_0097_Water,Green algae,Sarah Spaulding,40x
+BRW_E548_03,Willamette River Basin - McKenzie River,Resonon Pika XC2,Spectrum_0098_Algal,Spectrum_0098_Water,Green algae,Sarah Spaulding,40x
+CR_E4816_03,Willamette River Basin - McKenzie River,Resonon Pika XC2,Spectrum_0099_Algal,Spectrum_0099_Water,Green algae,Sarah Spaulding,40x
+CR_E4816_03,Willamette River Basin - McKenzie River,Resonon Pika XC2,Spectrum_0100_Algal,Spectrum_0100_Water,Green algae,Sarah Spaulding,40x
+CR_E4816_03,Willamette River Basin - McKenzie River,Resonon Pika XC2,Spectrum_0101_Algal,Spectrum_0101_Water,Green algae,Sarah Spaulding,40x
+LL,Illinois River Basin,Resonon Pika XC2,Spectrum_0102_Algal,Spectrum_0102_Water,Aphanizomenon,Sarah Spaulding,20x
+LL,Illinois River Basin,Resonon Pika XC2,Spectrum_0103_Algal,Spectrum_0103_Water,Aphanizomenon,Sarah Spaulding,20x
+LL,Illinois River Basin,Resonon Pika XC2,Spectrum_0104_Algal,Spectrum_0104_Water,Aphanizomenon,Sarah Spaulding,20x
+LL,Illinois River Basin,Resonon Pika XC2,Spectrum_0105_Algal,Spectrum_0105_Water,Microcystis,Barry Rosen and Kurt Carpenter,40x
+LL,Illinois River Basin,Resonon Pika XC2,Spectrum_0106_Algal,Spectrum_0106_Water,Microcystis,Barry Rosen and Kurt Carpenter,40x
+LL,Illinois River Basin,Resonon Pika XC2,Spectrum_0107_Algal,Spectrum_0107_Water,Dolichospermum,Sarah Spaulding,40x
+LL,Illinois River Basin,Resonon Pika XC2,Spectrum_0108_Algal,Spectrum_0108_Water,Microcystis,Barry Rosen and Kurt Carpenter,40x
+LL,Illinois River Basin,Resonon Pika XC2,Spectrum_0109_Algal,Spectrum_0109_Water,Aphanizomenon,Sarah Spaulding,40x
+LL,Illinois River Basin,Resonon Pika XC2,Spectrum_0110_Algal,Spectrum_0110_Water,Microcystis,Barry Rosen and Kurt Carpenter,40x
+LL,Illinois River Basin,Resonon Pika XC2,Spectrum_0111_Algal,Spectrum_0111_Water,Aphanizomenon,Sarah Spaulding,40x
+LL,Illinois River Basin,Resonon Pika XC2,Spectrum_0112_Algal,Spectrum_0112_Water,Microcystis,Barry Rosen and Kurt Carpenter,40x
+Salem,Delaware River Basin,Resonon Pika XC2,Spectrum_0113_Algal,Spectrum_0113_Water,Green algae,Sarah Spaulding,40x
+Salem,Delaware River Basin,Resonon Pika XC2,Spectrum_0114_Algal,Spectrum_0114_Water,Green algae,Sarah Spaulding,40x
+Salem,Delaware River Basin,Resonon Pika XC2,Spectrum_0115_Algal,Spectrum_0115_Water,Green algae,Sarah Spaulding,40x
+Salem,Delaware River Basin,Resonon Pika XC2,Spectrum_0116_Algal,Spectrum_0116_Water,Green algae,Sarah Spaulding,40x
+CP,"Deschutes River, OR",Resonon Pika XC2,Spectrum_0117_Algal,Spectrum_0117_Water,Gloeotrichia,Sarah Spaulding,20x
+CP,"Deschutes River, OR",Resonon Pika XC2,Spectrum_0118_Algal,Spectrum_0118_Water,Gloeotrichia,Sarah Spaulding,20x
+CP,"Deschutes River, OR",Resonon Pika XC2,Spectrum_0119_Algal,Spectrum_0119_Water,Gloeotrichia,Sarah Spaulding,20x
+CP,"Deschutes River, OR",Resonon Pika XC2,Spectrum_0120_Algal,Spectrum_0120_Water,Gloeotrichia,Sarah Spaulding,20x
+CP,"Deschutes River, OR",Resonon Pika XC2,Spectrum_0121_Algal,Spectrum_0121_Water,Gloeotrichia,Sarah Spaulding,20x
+CP,"Deschutes River, OR",Resonon Pika XC2,Spectrum_0122_Algal,Spectrum_0122_Water,Dolichospermum,Sarah Spaulding,40x
+CP,"Deschutes River, OR",Resonon Pika XC2,Spectrum_0123_Algal,Spectrum_0123_Water,Dolichospermum,Sarah Spaulding,40x
+CP,"Deschutes River, OR",Resonon Pika XC2,Spectrum_0124_Algal,Spectrum_0124_Water,Dolichospermum,Sarah Spaulding,40x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0125_Algal,Spectrum_0125_Water,Aphanizomenon,Sarah Spaulding,20x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0126_Algal,Spectrum_0126_Water,Aphanizomenon,Sarah Spaulding,20x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0127_Algal,Spectrum_0127_Water,Aphanizomenon,Sarah Spaulding,20x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0128_Algal,Spectrum_0128_Water,Aphanizomenon,Sarah Spaulding,20x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0129_Algal,Spectrum_0129_Water,Aphanizomenon,Sarah Spaulding,20x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0130_Algal,Spectrum_0130_Water,Aphanizomenon,Sarah Spaulding,20x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0131_Algal,Spectrum_0131_Water,Aphanizomenon,Sarah Spaulding,20x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0132_Algal,Spectrum_0132_Water,Aphanizomenon,Sarah Spaulding,20x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0133_Algal,Spectrum_0133_Water,Aphanizomenon,Sarah Spaulding,20x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0134_Algal,Spectrum_0134_Water,Aphanizomenon,Sarah Spaulding,20x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0135_Algal,Spectrum_0135_Water,Aphanizomenon,Sarah Spaulding,20x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0136_Algal,Spectrum_0136_Water,Aphanizomenon,Sarah Spaulding,20x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0137_Algal,Spectrum_0137_Water,Aphanizomenon,Sarah Spaulding,20x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0138_Algal,Spectrum_0138_Water,Gloeotrichia,Sarah Spaulding,20x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0139_Algal,Spectrum_0139_Water,Gloeotrichia,Sarah Spaulding,20x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0140_Algal,Spectrum_0140_Water,Gloeotrichia,Sarah Spaulding,20x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0141_Algal,Spectrum_0141_Water,Gloeotrichia,Sarah Spaulding,20x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0142_Algal,Spectrum_0142_Water,Gloeotrichia,Sarah Spaulding,20x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0143_Algal,Spectrum_0143_Water,Gloeotrichia,Sarah Spaulding,20x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0144_Algal,Spectrum_0144_Water,Gloeotrichia,Sarah Spaulding,20x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0145_Algal,Spectrum_0145_Water,Dolichospermum,Sarah Spaulding,20x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0146_Algal,Spectrum_0146_Water,Gloeotrichia,Sarah Spaulding,20x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0147_Algal,Spectrum_0147_Water,Dolichospermum,Sarah Spaulding,40x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0148_Algal,Spectrum_0148_Water,Dolichospermum,Sarah Spaulding,40x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0149_Algal,Spectrum_0149_Water,Dolichospermum,Sarah Spaulding,40x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0150_Algal,Spectrum_0150_Water,Aphanizomenon,Sarah Spaulding,40x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0151_Algal,Spectrum_0151_Water,Dolichospermum,Sarah Spaulding,40x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0152_Algal,Spectrum_0152_Water,Dolichospermum,Sarah Spaulding,40x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0153_Algal,Spectrum_0153_Water,Dolichospermum,Sarah Spaulding,40x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0154_Algal,Spectrum_0154_Water,Dolichospermum,Sarah Spaulding,40x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0155_Algal,Spectrum_0155_Water,Dolichospermum,Sarah Spaulding,40x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0156_Algal,Spectrum_0156_Water,Dolichospermum,Sarah Spaulding,40x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0157_Algal,Spectrum_0157_Water,Dolichospermum,Sarah Spaulding,40x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0158_Algal,Spectrum_0158_Water,Dolichospermum,Sarah Spaulding,40x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0159_Algal,Spectrum_0159_Water,Dolichospermum,Sarah Spaulding,40x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0160_Algal,Spectrum_0160_Water,Dolichospermum,Sarah Spaulding,40x
+BM,CO River Basin - Iola,Resonon Pika XC2,Spectrum_0161_Algal,Spectrum_0161_Water,Dolichospermum,Sarah Spaulding,40x
+LT_P5,"Leetown, WV",Resonon Pika XC2,Spectrum_0162_Algal,Spectrum_0162_Water,Spirogyra,Kurt Carpenter,40x
+LT_P5,"Leetown, WV",Resonon Pika XC2,Spectrum_0163_Algal,Spectrum_0163_Water,Oedogonium,Kurt Carpenter,40x
+LT_P5,"Leetown, WV",Resonon Pika XC2,Spectrum_0164_Algal,Spectrum_0164_Water,Oedogonium,Kurt Carpenter,40x
+LT_P5,"Leetown, WV",Resonon Pika XC2,Spectrum_0165_Algal,Spectrum_0165_Water,Oedogonium,Kurt Carpenter,40x
+LT_P8,"Leetown, WV",Resonon Pika XC2,Spectrum_0166_Algal,Spectrum_0166_Water,Closterium,Kurt Carpenter,40x
+LT_P8,"Leetown, WV",Resonon Pika XC2,Spectrum_0167_Algal,Spectrum_0167_Water,Closterium,Kurt Carpenter,40x
+LT_P8,"Leetown, WV",Resonon Pika XC2,Spectrum_0168_Algal,Spectrum_0168_Water,Cymbella,Kurt Carpenter,40x
+LT_P8,"Leetown, WV",Resonon Pika XC2,Spectrum_0169_Algal,Spectrum_0169_Water,Cymbella,Kurt Carpenter,40x
+LT_P15,"Leetown, WV",Resonon Pika XC2,Spectrum_0170_Algal,Spectrum_0170_Water,Oscillatoria,Kurt Carpenter,40x
+LT_P15,"Leetown, WV",Resonon Pika XC2,Spectrum_0171_Algal,Spectrum_0171_Water,Oscillatoria,Kurt Carpenter,40x
+LT_P15,"Leetown, WV",Resonon Pika XC2,Spectrum_0172_Algal,Spectrum_0172_Water,Oscillatoria,Kurt Carpenter,40x
+LT_P15,"Leetown, WV",Resonon Pika XC2,Spectrum_0173_Algal,Spectrum_0173_Water,Oscillatoria,Kurt Carpenter,40x
+LT_P15,"Leetown, WV",Resonon Pika XC2,Spectrum_0174_Algal,Spectrum_0174_Water,Oscillatoria,Kurt Carpenter,40x
+LT_P15,"Leetown, WV",Resonon Pika XC2,Spectrum_0175_Algal,Spectrum_0175_Water,Oscillatoria,Kurt Carpenter,40x
+LT_P15,"Leetown, WV",Resonon Pika XC2,Spectrum_0176_Algal,Spectrum_0176_Water,Oscillatoria,Kurt Carpenter,40x
+LT_P15,"Leetown, WV",Resonon Pika XC2,Spectrum_0177_Algal,Spectrum_0177_Water,Oscillatoria,Kurt Carpenter,40x
+LT_P19,"Leetown, WV",Resonon Pika XC2,Spectrum_0178_Algal,Spectrum_0178_Water,Microcystis,Kurt Carpenter,40x
+LT_P19,"Leetown, WV",Resonon Pika XC2,Spectrum_0179_Algal,Spectrum_0179_Water,Microcystis,Kurt Carpenter,40x
+LT_P19,"Leetown, WV",Resonon Pika XC2,Spectrum_0180_Algal,Spectrum_0180_Water,Microcystis,Kurt Carpenter,40x
+LT_P19,"Leetown, WV",Resonon Pika XC2,Spectrum_0181_Algal,Spectrum_0181_Water,Microcystis,Kurt Carpenter,40x
+LT_P19,"Leetown, WV",Resonon Pika XC2,Spectrum_0182_Algal,Spectrum_0182_Water,Microcystis,Kurt Carpenter,40x
+LT_P19,"Leetown, WV",Resonon Pika XC2,Spectrum_0183_Algal,Spectrum_0183_Water,Microcystis,Kurt Carpenter,40x
+LT_P8,"Leetown, WV",Resonon Pika XC2,Spectrum_0184_Algal,Spectrum_0184_Water,Pseudoanabanea,Kurt Carpenter,40x
+LT_RA-1,"Leetown, WV",Resonon Pika XC2,Spectrum_0185_Algal,Spectrum_0185_Water,Oscillatoria,Kurt Carpenter,40x
+LT_RA-1,"Leetown, WV",Resonon Pika XC2,Spectrum_0186_Algal,Spectrum_0186_Water,Oscillatoria,Kurt Carpenter,40x
+LT_RA-1,"Leetown, WV",Resonon Pika XC2,Spectrum_0187_Algal,Spectrum_0187_Water,Oscillatoria,Kurt Carpenter,40x
+LT_RA-1,"Leetown, WV",Resonon Pika XC2,Spectrum_0188_Algal,Spectrum_0188_Water,Oscillatoria,Kurt Carpenter,40x
+LT_RA-1,"Leetown, WV",Resonon Pika XC2,Spectrum_0189_Algal,Spectrum_0189_Water,Oscillatoria,Kurt Carpenter,40x
+LT_RA-1,"Leetown, WV",Resonon Pika XC2,Spectrum_0190_Algal,Spectrum_0190_Water,Oscillatoria,Kurt Carpenter,40x
+LT_RA-1,"Leetown, WV",Resonon Pika XC2,Spectrum_0191_Algal,Spectrum_0191_Water,Oscillatoria,Kurt Carpenter,40x
+LT_RA-1,"Leetown, WV",Resonon Pika XC2,Spectrum_0192_Algal,Spectrum_0192_Water,Oscillatoria,Kurt Carpenter,40x
+LT_RA-3,"Leetown, WV",Resonon Pika XC2,Spectrum_0193_Algal,Spectrum_0193_Water,Oscillatoria,Kurt Carpenter,40x
+LT_URSP,"Leetown, WV",Resonon Pika XC2,Spectrum_0194_Algal,Spectrum_0194_Water,Oscillatoria,Kurt Carpenter,40x
+LT_URSP,"Leetown, WV",Resonon Pika XC2,Spectrum_0195_Algal,Spectrum_0195_Water,Zygnema,Kurt Carpenter,40x
+LT_URSP,"Leetown, WV",Resonon Pika XC2,Spectrum_0196_Algal,Spectrum_0196_Water,Zygnema,Kurt Carpenter,40x
+LT_URSP,"Leetown, WV",Resonon Pika XC2,Spectrum_0197_Algal,Spectrum_0197_Water,Zygnema,Kurt Carpenter,40x
+LT_URSP,"Leetown, WV",Resonon Pika XC2,Spectrum_0198_Algal,Spectrum_0198_Water,Zygnema,Kurt Carpenter,40x
+LT_URSP,"Leetown, WV",Resonon Pika XC2,Spectrum_0199_Algal,Spectrum_0199_Water,Oscillatoria,Kurt Carpenter,40x
+LT_URSP,"Leetown, WV",Resonon Pika XC2,Spectrum_0200_Algal,Spectrum_0200_Water,Oscillatoria,Kurt Carpenter,40x
+LT_URSP,"Leetown, WV",Resonon Pika XC2,Spectrum_0201_Algal,Spectrum_0201_Water,Zygnema,Kurt Carpenter,40x
+LT_URSP,"Leetown, WV",Resonon Pika XC2,Spectrum_0202_Algal,Spectrum_0202_Water,Oscillatoria,Kurt Carpenter,40x
+LT_URSP,"Leetown, WV",Resonon Pika XC2,Spectrum_0203_Algal,Spectrum_0203_Water,Oscillatoria,Kurt Carpenter,40x
+LT_URSP,"Leetown, WV",Resonon Pika XC2,Spectrum_0204_Algal,Spectrum_0204_Water,Zygnema,Kurt Carpenter,40x
+LT_URSP,"Leetown, WV",Resonon Pika XC2,Spectrum_0205_Algal,Spectrum_0205_Water,Oscillatoria,Kurt Carpenter,40x
+LT_URSP,"Leetown, WV",Resonon Pika XC2,Spectrum_0206_Algal,Spectrum_0206_Water,Zygnema,Kurt Carpenter,40x
+LT_URSP,"Leetown, WV",Resonon Pika XC2,Spectrum_0207_Algal,Spectrum_0207_Water,Oscillatoria,Kurt Carpenter,40x
+LT_URSP,"Leetown, WV",Resonon Pika XC2,Spectrum_0208_Algal,Spectrum_0208_Water,Oscillatoria,Kurt Carpenter,40x
+LT_URSP,"Leetown, WV",Resonon Pika XC2,Spectrum_0209_Algal,Spectrum_0209_Water,Oscillatoria,Kurt Carpenter,40x
+LT_URSP,"Leetown, WV",Resonon Pika XC2,Spectrum_0210_Algal,Spectrum_0210_Water,Oscillatoria,Kurt Carpenter,40x
+LT_URSP,"Leetown, WV",Resonon Pika XC2,Spectrum_0211_Algal,Spectrum_0211_Water,Zygnema,Kurt Carpenter,40x
+LT_URSP,"Leetown, WV",Resonon Pika XC2,Spectrum_0212_Algal,Spectrum_0212_Water,Oscillatoria,Kurt Carpenter,40x
+LT_URSP,"Leetown, WV",Resonon Pika XC2,Spectrum_0213_Algal,Spectrum_0213_Water,Botryococcus,Kurt Carpenter,40x
+LT_URSP,"Leetown, WV",Resonon Pika XC2,Spectrum_0214_Algal,Spectrum_0214_Water,Botryococcus,Kurt Carpenter,40x
+LT_URSP,"Leetown, WV",Resonon Pika XC2,Spectrum_0215_Algal,Spectrum_0215_Water,Botryococcus,Kurt Carpenter,40x
+LB_A_01,"Clackamas River, OR",Resonon Pika XC2,Spectrum_0216_Algal,Spectrum_0216_Water,Draparnaldia,Kurt Carpenter,20x
+LB_A_01,"Clackamas River, OR",Resonon Pika XC2,Spectrum_0217_Algal,Spectrum_0217_Water,Draparnaldia,Kurt Carpenter,20x
+LB_A_01,"Clackamas River, OR",Resonon Pika XC2,Spectrum_0218_Algal,Spectrum_0218_Water,Draparnaldia,Kurt Carpenter,20x
+LB_A_01,"Clackamas River, OR",Resonon Pika XC2,Spectrum_0219_Algal,Spectrum_0219_Water,Draparnaldia,Kurt Carpenter,20x
+LB_B_01,"Clackamas River, OR",Resonon Pika XC2,Spectrum_0220_Algal,Spectrum_0220_Water,Ulothrix,Kurt Carpenter,20x
+LB_B_01,"Clackamas River, OR",Resonon Pika XC2,Spectrum_0221_Algal,Spectrum_0221_Water,Ulothrix,Kurt Carpenter,20x
+LB_B_01,"Clackamas River, OR",Resonon Pika XC2,Spectrum_0222_Algal,Spectrum_0222_Water,Ulothrix,Kurt Carpenter,20x
+LB_B_01,"Clackamas River, OR",Resonon Pika XC2,Spectrum_0223_Algal,Spectrum_0223_Water,Ulothrix,Kurt Carpenter,20x
+LB_B_01,"Clackamas River, OR",Resonon Pika XC2,Spectrum_0224_Algal,Spectrum_0224_Water,Ulothrix,Kurt Carpenter,20x
+LB_C_01,"Clackamas River, OR",Resonon Pika XC2,Spectrum_0225_Algal,Spectrum_0225_Water,Gomphoneis herculeana,Kurt Carpenter,20x
+LB_C_01,"Clackamas River, OR",Resonon Pika XC2,Spectrum_0226_Algal,Spectrum_0226_Water,Gomphoneis herculeana,Kurt Carpenter,20x
+LB_C_01,"Clackamas River, OR",Resonon Pika XC2,Spectrum_0227_Algal,Spectrum_0227_Water,Gomphoneis herculeana,Kurt Carpenter,20x
+GP_Spiro,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0228_Algal,Spectrum_0228_Water,Spirogyra,Kurt Carpenter,20x
+GP_Spiro,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0229_Algal,Spectrum_0229_Water,Spirogyra,Kurt Carpenter,20x
+GP_Spiro,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0230_Algal,Spectrum_0230_Water,Spirogyra,Kurt Carpenter,20x
+GP_Spiro,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0231_Algal,Spectrum_0231_Water,Spirogyra,Kurt Carpenter,20x
+GP_Nost,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0232_Algal,Spectrum_0232_Water,Nostoc,Kurt Carpenter,20x
+GP_Phorm,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0233_Algal,Spectrum_0233_Water,Phormidium,Kurt Carpenter,20x
+GP_Phorm,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0234_Algal,Spectrum_0234_Water,Phormidium,Kurt Carpenter,20x
+GP_Phorm,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0235_Algal,Spectrum_0235_Water,Phormidium,Kurt Carpenter,20x
+GP_Phorm,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0236_Algal,Spectrum_0236_Water,Phormidium,Kurt Carpenter,20x
+GP_Phorm,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0237_Algal,Spectrum_0237_Water,Phormidium,Kurt Carpenter,20x
+GP_Phorm,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0238_Algal,Spectrum_0238_Water,Phormidium,Kurt Carpenter,20x
+GP_Phorm,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0239_Algal,Spectrum_0239_Water,Phormidium,Kurt Carpenter,20x
+GP_Phorm,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0240_Algal,Spectrum_0240_Water,Phormidium,Kurt Carpenter,20x
+GP_Phorm,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0241_Algal,Spectrum_0241_Water,Phormidium,Kurt Carpenter,20x
+GP_Phorm,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0242_Algal,Spectrum_0242_Water,Phormidium,Kurt Carpenter,20x
+GP_Pras,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0243_Algal,Spectrum_0243_Water,Prasiola,Kurt Carpenter,20x
+GP_Pras,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0244_Algal,Spectrum_0244_Water,Prasiola,Kurt Carpenter,20x
+GP_Pras,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0245_Algal,Spectrum_0245_Water,Prasiola,Kurt Carpenter,20x
+GP_Stalk,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0246_Algal,Spectrum_0246_Water,Gomphoneis herculeana,Kurt Carpenter,20x
+GP_Stalk,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0247_Algal,Spectrum_0247_Water,Gomphoneis herculeana,Kurt Carpenter,20x
+GP_Stalk,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0248_Algal,Spectrum_0248_Water,Gomphoneis herculeana,Kurt Carpenter,20x
+GP_Stalk,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0249_Algal,Spectrum_0249_Water,Gomphoneis herculeana,Kurt Carpenter,20x
+GP_Stalk,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0250_Algal,Spectrum_0250_Water,Gomphoneis herculeana,Kurt Carpenter,20x
+GP_Stalk,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0251_Algal,Spectrum_0251_Water,Gomphoneis herculeana,Kurt Carpenter,20x
+GP_Stalk,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0252_Algal,Spectrum_0252_Water,Gomphoneis herculeana,Kurt Carpenter,20x
+GP_Stalk,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0253_Algal,Spectrum_0253_Water,Gomphoneis herculeana,Kurt Carpenter,20x
+FB_F,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0254_Algal,Spectrum_0254_Water,Zygnema,Kurt Carpenter,20x
+FB_F,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0255_Algal,Spectrum_0255_Water,Nostoc,Kurt Carpenter,20x
+FB_F,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0256_Algal,Spectrum_0256_Water,Nostoc,Kurt Carpenter,20x
+FB_F,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0257_Algal,Spectrum_0257_Water,Zygnema,Kurt Carpenter,20x
+FB_F,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0258_Algal,Spectrum_0258_Water,Nostoc,Kurt Carpenter,20x
+FB_F,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0259_Algal,Spectrum_0259_Water,Nostoc,Kurt Carpenter,20x
+FB_F,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0260_Algal,Spectrum_0260_Water,Zygnema,Kurt Carpenter,20x
+FB_F,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0261_Algal,Spectrum_0261_Water,Nostoc,Kurt Carpenter,20x
+FB_F,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0262_Algal,Spectrum_0262_Water,Zygnema,Kurt Carpenter,20x
+FB_F,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0263_Algal,Spectrum_0263_Water,Nostoc,Kurt Carpenter,20x
+FB_F,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0264_Algal,Spectrum_0264_Water,Nostoc,Kurt Carpenter,20x
+FB_F,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0265_Algal,Spectrum_0265_Water,Zygnema,Kurt Carpenter,20x
+GP_3,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0266_Algal,Spectrum_0266_Water,Epithemia,Kurt Carpenter,20x
+GP_3,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0267_Algal,Spectrum_0267_Water,Cladophora,Kurt Carpenter,20x
+GP_3,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0268_Algal,Spectrum_0268_Water,Cladophora,Kurt Carpenter,20x
+GP_3,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0269_Algal,Spectrum_0269_Water,Cladophora,Kurt Carpenter,20x
+FR_B,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0270_Algal,Spectrum_0270_Water,Nostoc Spongiforme,Kurt Carpenter,20x
+FR_B,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0271_Algal,Spectrum_0271_Water,Nostoc Spongiforme,Kurt Carpenter,20x
+FR_B,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0272_Algal,Spectrum_0272_Water,Nostoc Spongiforme,Kurt Carpenter,20x
+FR_B,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0273_Algal,Spectrum_0273_Water,Nostoc Spongiforme,Kurt Carpenter,20x
+GP_C,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0274_Algal,Spectrum_0274_Water,Cladophora,Kurt Carpenter,20x
+GP_C,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0275_Algal,Spectrum_0275_Water,Cladophora,Kurt Carpenter,20x
+GP_C,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0276_Algal,Spectrum_0276_Water,Epithemia,Kurt Carpenter,20x
+GP_C,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0277_Algal,Spectrum_0277_Water,Cladophora,Kurt Carpenter,20x
+GP_D,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0278_Algal,Spectrum_0278_Water,Zygnema,Kurt Carpenter,20x
+GP_D,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0279_Algal,Spectrum_0279_Water,Zygnema,Kurt Carpenter,20x
+GP_D,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0280_Algal,Spectrum_0280_Water,Zygnema,Kurt Carpenter,20x
+GP_D,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0281_Algal,Spectrum_0281_Water,Zygnema,Kurt Carpenter,20x
+FRRA_H,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0282_Algal,Spectrum_0282_Water,Microspora,Kurt Carpenter,20x
+FRRA_H,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0283_Algal,Spectrum_0283_Water,Microspora,Kurt Carpenter,20x
+FRRA_H,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0284_Algal,Spectrum_0284_Water,Microspora,Kurt Carpenter,20x
+FRRA_G,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0285_Algal,Spectrum_0285_Water,Mougeotia,Kurt Carpenter,20x
+FRRA_G,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0286_Algal,Spectrum_0286_Water,Phormidium,Kurt Carpenter,20x
+FRRA_G,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0287_Algal,Spectrum_0287_Water,Mougeotia,Kurt Carpenter,20x
+FRRA_G,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0288_Algal,Spectrum_0288_Water,Phormidium,Kurt Carpenter,20x
+FRRA_G,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0289_Algal,Spectrum_0289_Water,Phormidium,Kurt Carpenter,20x
+FRRA_G,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0290_Algal,Spectrum_0290_Water,Phormidium,Kurt Carpenter,20x
+SF_E,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0291_Algal,Spectrum_0291_Water,Zygnema,Kurt Carpenter,20x
+SF_E,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0292_Algal,Spectrum_0292_Water,Mougeotia,Kurt Carpenter,20x
+SF_E,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0293_Algal,Spectrum_0293_Water,Zygnema,Kurt Carpenter,20x
+SF_E,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0294_Algal,Spectrum_0294_Water,Zygnema,Kurt Carpenter,20x
+FB_F,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0295_Algal,Spectrum_0295_Water,Spirogyra,Kurt Carpenter,40x
+FB_F,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0296_Algal,Spectrum_0296_Water,Zygnema,Kurt Carpenter,40x
+FB_F,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0297_Algal,Spectrum_0297_Water,Zygnema,Kurt Carpenter,40x
+FB_F,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0298_Algal,Spectrum_0298_Water,Zygnema,Kurt Carpenter,40x
+FB_F,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0299_Algal,Spectrum_0299_Water,Spirogyra,Kurt Carpenter,40x
+GP_4,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0300_Algal,Spectrum_0300_Water,Nostoc,Kurt Carpenter,20x
+GP_4,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0301_Algal,Spectrum_0301_Water,Nostoc,Kurt Carpenter,20x
+GP_4,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0302_Algal,Spectrum_0302_Water,Nostoc,Kurt Carpenter,20x
+GP_4,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0303_Algal,Spectrum_0303_Water,Nostoc,Kurt Carpenter,20x
+GP_4,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0304_Algal,Spectrum_0304_Water,Nostoc,Kurt Carpenter,20x
+GP_4,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0305_Algal,Spectrum_0305_Water,Nostoc,Kurt Carpenter,20x
+FR_B,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0306_Algal,Spectrum_0306_Water,Nostoc Spongiforme,Kurt Carpenter,40x
+FR_B,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0307_Algal,Spectrum_0307_Water,Nostoc Spongiforme,Kurt Carpenter,40x
+GP_C,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0308_Algal,Spectrum_0308_Water,Nostoc Spongiforme,Kurt Carpenter,40x
+GP_D,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0309_Algal,Spectrum_0309_Water,Zygnema,Kurt Carpenter,40x
+FRRA_G,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0310_Algal,Spectrum_0310_Water,Phormidium,Kurt Carpenter,40x
+FRRA_G,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0311_Algal,Spectrum_0311_Water,Phormidium,Kurt Carpenter,40x
+FRRA_G,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0312_Algal,Spectrum_0312_Water,Phormidium,Kurt Carpenter,40x
+FRRA_H,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0313_Algal,Spectrum_0313_Water,Tribonema,Kurt Carpenter,40x
+FRRA_H,"McKenzie River, OR",Resonon Pika XC2,Spectrum_0314_Algal,Spectrum_0314_Water,Tribonema,Kurt Carpenter,40x
